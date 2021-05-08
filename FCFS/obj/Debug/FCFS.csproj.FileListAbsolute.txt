@@ -1,0 +1,20 @@
+C:\Users\diego\Desktop\6_SEMESTRE\SO\C#\FCFS\FCFS\obj\Debug\FCFS.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\6_SEMESTRE\SO\C#\FCFS\FCFS\obj\Debug\FCFS.Form1.resources
+C:\Users\diego\Desktop\6_SEMESTRE\SO\C#\FCFS\FCFS\obj\Debug\FCFS.Properties.Resources.resources
+C:\Users\diego\Desktop\6_SEMESTRE\SO\C#\FCFS\FCFS\obj\Debug\FCFS.csproj.GenerateResource.cache
+C:\Users\diego\Desktop\6_SEMESTRE\SO\C#\FCFS\FCFS\obj\Debug\FCFS.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\6_SEMESTRE\SO\C#\FCFS\FCFS\bin\Debug\FCFS.exe.config
+C:\Users\diego\Desktop\6_SEMESTRE\SO\C#\FCFS\FCFS\bin\Debug\FCFS.exe
+C:\Users\diego\Desktop\6_SEMESTRE\SO\C#\FCFS\FCFS\bin\Debug\FCFS.pdb
+C:\Users\diego\Desktop\6_SEMESTRE\SO\C#\FCFS\FCFS\obj\Debug\FCFS.exe
+C:\Users\diego\Desktop\6_SEMESTRE\SO\C#\FCFS\FCFS\obj\Debug\FCFS.pdb
+C:\Users\Best Buy\Documents\Visual Studio 2019\FCFS\FCFS\bin\Debug\FCFS.exe.config
+C:\Users\Best Buy\Documents\Visual Studio 2019\FCFS\FCFS\bin\Debug\FCFS.exe
+C:\Users\Best Buy\Documents\Visual Studio 2019\FCFS\FCFS\bin\Debug\FCFS.pdb
+C:\Users\Best Buy\Documents\Visual Studio 2019\FCFS\FCFS\obj\Debug\FCFS.csprojAssemblyReference.cache
+C:\Users\Best Buy\Documents\Visual Studio 2019\FCFS\FCFS\obj\Debug\FCFS.Properties.Resources.resources
+C:\Users\Best Buy\Documents\Visual Studio 2019\FCFS\FCFS\obj\Debug\FCFS.csproj.GenerateResource.cache
+C:\Users\Best Buy\Documents\Visual Studio 2019\FCFS\FCFS\obj\Debug\FCFS.csproj.CoreCompileInputs.cache
+C:\Users\Best Buy\Documents\Visual Studio 2019\FCFS\FCFS\obj\Debug\FCFS.exe
+C:\Users\Best Buy\Documents\Visual Studio 2019\FCFS\FCFS\obj\Debug\FCFS.pdb
+C:\Users\Best Buy\Documents\Visual Studio 2019\FCFS\FCFS\obj\Debug\FCFS.Form1.resources
